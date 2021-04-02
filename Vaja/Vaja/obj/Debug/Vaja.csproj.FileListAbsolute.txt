@@ -76,3 +76,7 @@ D:\RPA2021\Vaja\Vaja\obj\Debug\Vaja.csprojAssemblyReference.cache
 D:\RPA2021\Vaja\Vaja\obj\Debug\Vaja.csproj.CopyComplete
 D:\RPA2021\Vaja\Vaja\obj\Debug\Vaja.dll
 D:\RPA2021\Vaja\Vaja\obj\Debug\Vaja.pdb
+D:\RPA2021\Vaja\Vaja\bin\EntityFramework.dll
+D:\RPA2021\Vaja\Vaja\bin\EntityFramework.SqlServer.dll
+D:\RPA2021\Vaja\Vaja\bin\EntityFramework.xml
+D:\RPA2021\Vaja\Vaja\bin\EntityFramework.SqlServer.xml
