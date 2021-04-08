@@ -1,0 +1,14 @@
+﻿@model Vaja1.Models.Student
+
+@{
+    ViewBag.Title = "TestModela";
+}
+
+<h2>Študent</h2>
+<ul>
+    <li>ID študenta: @Model.StudentId</li>
+    @Html.TextBox("StudentName", Model.StudentName, new { @class = "form-control" })
+    @Html.TextBoxFor(m => m.StudentName, new { @class = "form-control" })
+    @*<li>Ime: @Model.StudentName</li>*@
+    <li>Starost: @Model.Age</li>
+</ul>

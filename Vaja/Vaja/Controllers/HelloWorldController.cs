@@ -20,5 +20,10 @@ namespace Vaja.Controllers
             ViewBag.Num = num;
             return View();
         }
+        public ActionResult Vaja(int id)
+        {
+            ViewBag.Num = id;
+            return View();
+        }
     }
 }
