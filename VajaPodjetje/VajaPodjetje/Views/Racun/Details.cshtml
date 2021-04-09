@@ -1,0 +1,42 @@
+﻿@model VajaPodjetje.Models.Racun
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Racun</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Kupec.ImePodjetja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kupec.ImePodjetja)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Vrednost)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Vrednost)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumIzdaje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumIzdaje)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
