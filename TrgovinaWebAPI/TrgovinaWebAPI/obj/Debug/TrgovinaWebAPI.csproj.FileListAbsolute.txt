@@ -82,3 +82,7 @@ D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\obj\Debug\TrgovinaWebAPI.csprojAssembly
 D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\obj\Debug\TrgovinaWebAPI.csproj.CopyComplete
 D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\obj\Debug\TrgovinaWebAPI.dll
 D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\obj\Debug\TrgovinaWebAPI.pdb
+D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\bin\EntityFramework.dll
+D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\bin\EntityFramework.SqlServer.dll
+D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\bin\EntityFramework.xml
+D:\RPA2021\TrgovinaWebAPI\TrgovinaWebAPI\bin\EntityFramework.SqlServer.xml
