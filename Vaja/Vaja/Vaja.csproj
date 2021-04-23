@@ -181,6 +181,8 @@
     <Content Include="Views\Filmi\Index.cshtml" />
     <Content Include="Views\Filmi\Isci.cshtml" />
     <Content Include="Views\HelloWorld\Vaja.cshtml" />
+    <Content Include="Views\Shared\_MojLayout.cshtml" />
+    <Content Include="Views\Filmi\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

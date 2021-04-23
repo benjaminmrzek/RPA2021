@@ -6,3 +6,7 @@ Za spremenit ime atributa moramo v Modelu dodati nad atributom [DisplayName("")]
 Da naredimo podatek da je obvezen za vnos dodamo [Required(ErrorMessage) = "Polje je obvezno"]
 Da omejimo vnos podatkov na določen format uporabimo [RegularExpression("poljubniFormat", ErrorMessage = "Format ni pravilen")]
 Če uporabljamo \ rabimo na začetek stavka dati @
+Za pushat na github potrebujemo odstraniti .vs mapo in Context
+Za dodajanje Modela iz baze dodamo ADO.NET Entity Data Model, dodamo EF Designer from data...
+izberemo New Connection > Change v Microsoft SQL Server, vnesemo ime našega serverja("DESKTOP-09NVUIT\SQLEXPRESS")
+in izberemo poljubno bazo za importat

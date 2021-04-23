@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.exe.config
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.exe
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.pdb
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.csprojAssemblyReference.cache
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.exe
+C:\Users\student\source\repos\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.pdb
+D:\RPA2021\220421\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.exe.config
+D:\RPA2021\220421\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.exe
+D:\RPA2021\220421\AsinhroniTaski\AsinhroniTaski\bin\Debug\AsinhroniTaski.pdb
+D:\RPA2021\220421\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.csprojAssemblyReference.cache
+D:\RPA2021\220421\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.exe
+D:\RPA2021\220421\AsinhroniTaski\AsinhroniTaski\obj\Debug\AsinhroniTaski.pdb
